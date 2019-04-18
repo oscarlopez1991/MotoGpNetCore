@@ -1,0 +1,15 @@
+C:\Users\Oscar\source\repos\MotoGp\MotoGpWebApi\bin\Release\netcoreapp2.1\MotoGpWebApi.deps.json
+C:\Users\Oscar\source\repos\MotoGp\MotoGpWebApi\bin\Release\netcoreapp2.1\MotoGpWebApi.runtimeconfig.json
+C:\Users\Oscar\source\repos\MotoGp\MotoGpWebApi\bin\Release\netcoreapp2.1\MotoGpWebApi.runtimeconfig.dev.json
+C:\Users\Oscar\source\repos\MotoGp\MotoGpWebApi\bin\Release\netcoreapp2.1\MotoGpWebApi.dll
+C:\Users\Oscar\source\repos\MotoGp\MotoGpWebApi\bin\Release\netcoreapp2.1\MotoGpWebApi.pdb
+C:\Users\Oscar\source\repos\MotoGp\MotoGpWebApi\obj\Release\netcoreapp2.1\MotoGpWebApi.csprojAssemblyReference.cache
+C:\Users\Oscar\source\repos\MotoGp\MotoGpWebApi\obj\Release\netcoreapp2.1\MotoGpWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\source\repos\MotoGp\MotoGpWebApi\obj\Release\netcoreapp2.1\MotoGpWebApi.RazorAssemblyInfo.cache
+C:\Users\Oscar\source\repos\MotoGp\MotoGpWebApi\obj\Release\netcoreapp2.1\MotoGpWebApi.RazorAssemblyInfo.cs
+C:\Users\Oscar\source\repos\MotoGp\MotoGpWebApi\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Oscar\source\repos\MotoGp\MotoGpWebApi\obj\Release\netcoreapp2.1\MotoGpWebApi.AssemblyInfoInputs.cache
+C:\Users\Oscar\source\repos\MotoGp\MotoGpWebApi\obj\Release\netcoreapp2.1\MotoGpWebApi.AssemblyInfo.cs
+C:\Users\Oscar\source\repos\MotoGp\MotoGpWebApi\obj\Release\netcoreapp2.1\MotoGpWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Oscar\source\repos\MotoGp\MotoGpWebApi\obj\Release\netcoreapp2.1\MotoGpWebApi.dll
+C:\Users\Oscar\source\repos\MotoGp\MotoGpWebApi\obj\Release\netcoreapp2.1\MotoGpWebApi.pdb

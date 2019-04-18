@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MotoGp.AspNetCore.WebApi.Application", "MotoGpWebApi\MotoGp.AspNetCore.WebApi.Application.csproj", "{4A1CB1C4-8285-4C15-A7F5-44B04E08F285}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MotoGp.AspNetCore.WebApi.Application.Tests", "MotoGp.Api.Application.Tests\MotoGp.AspNetCore.WebApi.Application.Tests.csproj", "{1E7DEBEF-D4AC-42E6-9E8C-7530D71CCEAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A1CB1C4-8285-4C15-A7F5-44B04E08F285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A1CB1C4-8285-4C15-A7F5-44B04E08F285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A1CB1C4-8285-4C15-A7F5-44B04E08F285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A1CB1C4-8285-4C15-A7F5-44B04E08F285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E7DEBEF-D4AC-42E6-9E8C-7530D71CCEAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E7DEBEF-D4AC-42E6-9E8C-7530D71CCEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E7DEBEF-D4AC-42E6-9E8C-7530D71CCEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E7DEBEF-D4AC-42E6-9E8C-7530D71CCEAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA448B1F-12C7-4702-A83A-8CF910E4A5F9}
+	EndGlobalSection
+EndGlobal

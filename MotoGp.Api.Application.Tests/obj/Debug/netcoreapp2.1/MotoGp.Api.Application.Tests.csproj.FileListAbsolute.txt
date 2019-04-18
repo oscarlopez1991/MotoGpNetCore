@@ -1,0 +1,34 @@
+C:\Users\Oscar\source\repos\MotoGP\MotoGP\MotoGp.Api.Application.Tests\obj\Debug\netcoreapp2.1\MotoGp.Api.Application.Tests.csprojAssemblyReference.cache
+C:\Users\Oscar\source\repos\MotoGP\MotoGP\MotoGp.Api.Application.Tests\obj\Debug\netcoreapp2.1\MotoGp.Api.Application.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\source\repos\MotoGP\MotoGP\MotoGp.Api.Application.Tests\obj\Debug\netcoreapp2.1\MotoGp.Api.Application.Tests.AssemblyInfoInputs.cache
+C:\Users\Oscar\source\repos\MotoGP\MotoGP\MotoGp.Api.Application.Tests\obj\Debug\netcoreapp2.1\MotoGp.Api.Application.Tests.AssemblyInfo.cs
+C:\Users\Oscar\source\repos\MotoGP\MotoGP\MotoGp.Api.Application.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Oscar\source\repos\MotoGP\MotoGP\MotoGp.Api.Application.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Oscar\source\repos\MotoGP\MotoGP\MotoGp.Api.Application.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Oscar\source\repos\MotoGP\MotoGP\MotoGp.Api.Application.Tests\bin\Debug\netcoreapp2.1\MotoGp.Api.Application.Tests.deps.json
+C:\Users\Oscar\source\repos\MotoGP\MotoGP\MotoGp.Api.Application.Tests\bin\Debug\netcoreapp2.1\MotoGp.Api.Application.Tests.runtimeconfig.json
+C:\Users\Oscar\source\repos\MotoGP\MotoGP\MotoGp.Api.Application.Tests\bin\Debug\netcoreapp2.1\MotoGp.Api.Application.Tests.runtimeconfig.dev.json
+C:\Users\Oscar\source\repos\MotoGP\MotoGP\MotoGp.Api.Application.Tests\bin\Debug\netcoreapp2.1\MotoGp.Api.Application.Tests.dll
+C:\Users\Oscar\source\repos\MotoGP\MotoGP\MotoGp.Api.Application.Tests\bin\Debug\netcoreapp2.1\MotoGp.Api.Application.Tests.pdb
+C:\Users\Oscar\source\repos\MotoGP\MotoGP\MotoGp.Api.Application.Tests\bin\Debug\netcoreapp2.1\MotoGpWebApi.dll
+C:\Users\Oscar\source\repos\MotoGP\MotoGP\MotoGp.Api.Application.Tests\bin\Debug\netcoreapp2.1\MotoGpWebApi.pdb
+C:\Users\Oscar\source\repos\MotoGP\MotoGP\MotoGp.Api.Application.Tests\obj\Debug\netcoreapp2.1\MotoGp.Api.Application.Tests.csproj.CopyComplete
+C:\Users\Oscar\source\repos\MotoGP\MotoGP\MotoGp.Api.Application.Tests\obj\Debug\netcoreapp2.1\MotoGp.Api.Application.Tests.dll
+C:\Users\Oscar\source\repos\MotoGP\MotoGP\MotoGp.Api.Application.Tests\obj\Debug\netcoreapp2.1\MotoGp.Api.Application.Tests.pdb
+C:\Users\oscar.lopez\Documents\Visual Studio 2017\Projects\MotoGP\MotoGp.Api.Application.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\oscar.lopez\Documents\Visual Studio 2017\Projects\MotoGP\MotoGp.Api.Application.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\oscar.lopez\Documents\Visual Studio 2017\Projects\MotoGP\MotoGp.Api.Application.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\oscar.lopez\Documents\Visual Studio 2017\Projects\MotoGP\MotoGp.Api.Application.Tests\bin\Debug\netcoreapp2.1\MotoGp.Api.Application.Tests.deps.json
+C:\Users\oscar.lopez\Documents\Visual Studio 2017\Projects\MotoGP\MotoGp.Api.Application.Tests\bin\Debug\netcoreapp2.1\MotoGp.Api.Application.Tests.runtimeconfig.json
+C:\Users\oscar.lopez\Documents\Visual Studio 2017\Projects\MotoGP\MotoGp.Api.Application.Tests\bin\Debug\netcoreapp2.1\MotoGp.Api.Application.Tests.runtimeconfig.dev.json
+C:\Users\oscar.lopez\Documents\Visual Studio 2017\Projects\MotoGP\MotoGp.Api.Application.Tests\bin\Debug\netcoreapp2.1\MotoGp.Api.Application.Tests.dll
+C:\Users\oscar.lopez\Documents\Visual Studio 2017\Projects\MotoGP\MotoGp.Api.Application.Tests\bin\Debug\netcoreapp2.1\MotoGp.Api.Application.Tests.pdb
+C:\Users\oscar.lopez\Documents\Visual Studio 2017\Projects\MotoGP\MotoGp.Api.Application.Tests\bin\Debug\netcoreapp2.1\MotoGpWebApi.dll
+C:\Users\oscar.lopez\Documents\Visual Studio 2017\Projects\MotoGP\MotoGp.Api.Application.Tests\bin\Debug\netcoreapp2.1\MotoGpWebApi.pdb
+C:\Users\oscar.lopez\Documents\Visual Studio 2017\Projects\MotoGP\MotoGp.Api.Application.Tests\obj\Debug\netcoreapp2.1\MotoGp.Api.Application.Tests.csprojAssemblyReference.cache
+C:\Users\oscar.lopez\Documents\Visual Studio 2017\Projects\MotoGP\MotoGp.Api.Application.Tests\obj\Debug\netcoreapp2.1\MotoGp.Api.Application.Tests.csproj.CoreCompileInputs.cache
+C:\Users\oscar.lopez\Documents\Visual Studio 2017\Projects\MotoGP\MotoGp.Api.Application.Tests\obj\Debug\netcoreapp2.1\MotoGp.Api.Application.Tests.AssemblyInfoInputs.cache
+C:\Users\oscar.lopez\Documents\Visual Studio 2017\Projects\MotoGP\MotoGp.Api.Application.Tests\obj\Debug\netcoreapp2.1\MotoGp.Api.Application.Tests.AssemblyInfo.cs
+C:\Users\oscar.lopez\Documents\Visual Studio 2017\Projects\MotoGP\MotoGp.Api.Application.Tests\obj\Debug\netcoreapp2.1\MotoGp.Api.Application.Tests.csproj.CopyComplete
+C:\Users\oscar.lopez\Documents\Visual Studio 2017\Projects\MotoGP\MotoGp.Api.Application.Tests\obj\Debug\netcoreapp2.1\MotoGp.Api.Application.Tests.dll
+C:\Users\oscar.lopez\Documents\Visual Studio 2017\Projects\MotoGP\MotoGp.Api.Application.Tests\obj\Debug\netcoreapp2.1\MotoGp.Api.Application.Tests.pdb

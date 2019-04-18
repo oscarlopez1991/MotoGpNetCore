@@ -1,0 +1,60 @@
+C:\Users\Oscar\source\repos\MotoGp\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\source\repos\MotoGp\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.AssemblyInfoInputs.cache
+C:\Users\Oscar\source\repos\MotoGp\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.AssemblyInfo.cs
+C:\Users\Oscar\source\repos\MotoGp\MotoGpWebApi\bin\Debug\netcoreapp2.1\MotoGpWebApi.deps.json
+C:\Users\Oscar\source\repos\MotoGp\MotoGpWebApi\bin\Debug\netcoreapp2.1\MotoGpWebApi.runtimeconfig.json
+C:\Users\Oscar\source\repos\MotoGp\MotoGpWebApi\bin\Debug\netcoreapp2.1\MotoGpWebApi.runtimeconfig.dev.json
+C:\Users\Oscar\source\repos\MotoGp\MotoGpWebApi\bin\Debug\netcoreapp2.1\MotoGpWebApi.dll
+C:\Users\Oscar\source\repos\MotoGp\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.csprojAssemblyReference.cache
+C:\Users\Oscar\source\repos\MotoGp\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.RazorAssemblyInfo.cache
+C:\Users\Oscar\source\repos\MotoGp\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.RazorAssemblyInfo.cs
+C:\Users\Oscar\source\repos\MotoGp\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Oscar\source\repos\MotoGp\MotoGpWebApi\bin\Debug\netcoreapp2.1\MotoGpWebApi.pdb
+C:\Users\Oscar\source\repos\MotoGp\MotoGpWebApi\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Oscar\source\repos\MotoGp\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.dll
+C:\Users\Oscar\source\repos\MotoGp\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.pdb
+C:\Users\oscar.lopez\Desktop\MotoGP\MotoGpWebApi\bin\Debug\netcoreapp2.1\MotoGpWebApi.deps.json
+C:\Users\oscar.lopez\Desktop\MotoGP\MotoGpWebApi\bin\Debug\netcoreapp2.1\MotoGpWebApi.runtimeconfig.json
+C:\Users\oscar.lopez\Desktop\MotoGP\MotoGpWebApi\bin\Debug\netcoreapp2.1\MotoGpWebApi.runtimeconfig.dev.json
+C:\Users\oscar.lopez\Desktop\MotoGP\MotoGpWebApi\bin\Debug\netcoreapp2.1\MotoGpWebApi.dll
+C:\Users\oscar.lopez\Desktop\MotoGP\MotoGpWebApi\bin\Debug\netcoreapp2.1\MotoGpWebApi.pdb
+C:\Users\oscar.lopez\Desktop\MotoGP\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.csprojAssemblyReference.cache
+C:\Users\oscar.lopez\Desktop\MotoGP\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.csproj.CoreCompileInputs.cache
+C:\Users\oscar.lopez\Desktop\MotoGP\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.RazorAssemblyInfo.cache
+C:\Users\oscar.lopez\Desktop\MotoGP\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.RazorAssemblyInfo.cs
+C:\Users\oscar.lopez\Desktop\MotoGP\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.AssemblyInfoInputs.cache
+C:\Users\oscar.lopez\Desktop\MotoGP\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.AssemblyInfo.cs
+C:\Users\oscar.lopez\Desktop\MotoGP\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\oscar.lopez\Desktop\MotoGP\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.dll
+C:\Users\oscar.lopez\Desktop\MotoGP\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.pdb
+C:\Users\oscar.lopez\Desktop\MotoGP\MotoGpWebApi\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Oscar\source\repos\MotoGP\MotoGP\MotoGpWebApi\bin\Debug\netcoreapp2.1\MotoGpWebApi.deps.json
+C:\Users\Oscar\source\repos\MotoGP\MotoGP\MotoGpWebApi\bin\Debug\netcoreapp2.1\MotoGpWebApi.runtimeconfig.json
+C:\Users\Oscar\source\repos\MotoGP\MotoGP\MotoGpWebApi\bin\Debug\netcoreapp2.1\MotoGpWebApi.runtimeconfig.dev.json
+C:\Users\Oscar\source\repos\MotoGP\MotoGP\MotoGpWebApi\bin\Debug\netcoreapp2.1\MotoGpWebApi.dll
+C:\Users\Oscar\source\repos\MotoGP\MotoGP\MotoGpWebApi\bin\Debug\netcoreapp2.1\MotoGpWebApi.pdb
+C:\Users\Oscar\source\repos\MotoGP\MotoGP\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.csprojAssemblyReference.cache
+C:\Users\Oscar\source\repos\MotoGP\MotoGP\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\source\repos\MotoGP\MotoGP\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.RazorAssemblyInfo.cache
+C:\Users\Oscar\source\repos\MotoGP\MotoGP\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.RazorAssemblyInfo.cs
+C:\Users\Oscar\source\repos\MotoGP\MotoGP\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.AssemblyInfoInputs.cache
+C:\Users\Oscar\source\repos\MotoGP\MotoGP\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.AssemblyInfo.cs
+C:\Users\Oscar\source\repos\MotoGP\MotoGP\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Oscar\source\repos\MotoGP\MotoGP\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.dll
+C:\Users\Oscar\source\repos\MotoGP\MotoGP\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.pdb
+C:\Users\Oscar\source\repos\MotoGP\MotoGP\MotoGpWebApi\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\oscar.lopez\Documents\Visual Studio 2017\Projects\MotoGP\MotoGpWebApi\bin\Debug\netcoreapp2.1\MotoGpWebApi.deps.json
+C:\Users\oscar.lopez\Documents\Visual Studio 2017\Projects\MotoGP\MotoGpWebApi\bin\Debug\netcoreapp2.1\MotoGpWebApi.runtimeconfig.json
+C:\Users\oscar.lopez\Documents\Visual Studio 2017\Projects\MotoGP\MotoGpWebApi\bin\Debug\netcoreapp2.1\MotoGpWebApi.runtimeconfig.dev.json
+C:\Users\oscar.lopez\Documents\Visual Studio 2017\Projects\MotoGP\MotoGpWebApi\bin\Debug\netcoreapp2.1\MotoGpWebApi.dll
+C:\Users\oscar.lopez\Documents\Visual Studio 2017\Projects\MotoGP\MotoGpWebApi\bin\Debug\netcoreapp2.1\MotoGpWebApi.pdb
+C:\Users\oscar.lopez\Documents\Visual Studio 2017\Projects\MotoGP\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.csprojAssemblyReference.cache
+C:\Users\oscar.lopez\Documents\Visual Studio 2017\Projects\MotoGP\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.csproj.CoreCompileInputs.cache
+C:\Users\oscar.lopez\Documents\Visual Studio 2017\Projects\MotoGP\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.RazorAssemblyInfo.cache
+C:\Users\oscar.lopez\Documents\Visual Studio 2017\Projects\MotoGP\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.RazorAssemblyInfo.cs
+C:\Users\oscar.lopez\Documents\Visual Studio 2017\Projects\MotoGP\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.AssemblyInfoInputs.cache
+C:\Users\oscar.lopez\Documents\Visual Studio 2017\Projects\MotoGP\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.AssemblyInfo.cs
+C:\Users\oscar.lopez\Documents\Visual Studio 2017\Projects\MotoGP\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\oscar.lopez\Documents\Visual Studio 2017\Projects\MotoGP\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.dll
+C:\Users\oscar.lopez\Documents\Visual Studio 2017\Projects\MotoGP\MotoGpWebApi\obj\Debug\netcoreapp2.1\MotoGpWebApi.pdb
+C:\Users\oscar.lopez\Documents\Visual Studio 2017\Projects\MotoGP\MotoGpWebApi\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
